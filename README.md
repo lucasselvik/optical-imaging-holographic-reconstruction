@@ -21,15 +21,6 @@ Features
 • Reconstruction of three holographic images
 • Sensor simulation using rays2img
 
-How to Run
-
-1. Clone the repository:
-  git clone https://github.com/YOUR-USERNAME/optical-imaging-holographic-reconstruction
-2. Open MATLAB and add the repository to your path.
-3. Load the rays dataset:
-  load('rays.mat')
-4. Run the main script to propagate, cluster, focus, and reconstruct the images.
-
 Authors
 
 • Lucas Selvik
