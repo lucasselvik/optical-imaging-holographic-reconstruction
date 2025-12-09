@@ -6,7 +6,7 @@ Project Report
 
 Read the full report here:
 [Optical Imaging System for Holographic Reconstruction (PDF)
-](https://chatgpt.com/c/69388363-ea6c-8325-ae22-31075337a1ed#:~:text=full%20report%20here%3A-,Optical%20Imaging%20System%20for%20Holographic%20Reconstruction%20(PDF),-%F0%9F%94%8D%20Overview)
+](https://drive.google.com/file/d/1HtWvbMBRDAds5VIGEWOiM0jaA1nplgyx/view?usp=drive_link)
 
 Overview
 
