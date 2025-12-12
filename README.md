@@ -1,4 +1,4 @@
-optical-imaging-holographic-reconstruction
+# Optical-Imaging-Holographic-Reconstruction
 
 A MATLAB-based optical imaging system that models ray propagation using ray-transfer matrices and reconstructs holographic light-field data through clustering and thin-lens focusing.
 
@@ -14,14 +14,14 @@ This project simulates an optical imaging pipeline using linear system theory to
 
 Features
 
-• Ray propagation using 4×4 ray-transfer matrices
-• Free-space and thin-lens modeling
-• K-means clustering of (θx, θy) to isolate image groups
-• Automatic focal length optimization
-• Reconstruction of three holographic images
-• Sensor simulation using rays2img
+- Ray propagation using 4×4 ray-transfer matrices
+- Free-space and thin-lens modeling
+- K-means clustering of (θx, θy) to isolate image groups
+- Automatic focal length optimization
+- Reconstruction of three holographic images
+- Sensor simulation using rays2img
 
 Authors
 
-• Lucas Selvik
-• Jonas Kim
+- Lucas Selvik
+- Jonas Kim
